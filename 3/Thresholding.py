@@ -12,3 +12,4 @@ h_concat_adaptive=cv2.hconcat([img,adaptive_threshold])
 cv2.imwrite("/home/pradeep/Documents/Deeplearning/Tyser/3/Adaptive_thresholding.jpg", h_concat_adaptive)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
