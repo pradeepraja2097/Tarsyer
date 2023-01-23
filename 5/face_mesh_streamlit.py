@@ -149,3 +149,4 @@ with mp.solutions.face_mesh.FaceMesh(
             frame = image_resize(image=frame, width=640)
             stframe.image(frame,channels='BGR', use_column_width=True)
 
+
