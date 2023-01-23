@@ -23,3 +23,5 @@ h_concat_opening=cv2.hconcat([img,opening])
 cv2.imwrite("/home/pradeep/Documents/Deeplearning/Tyser/2/Opening.jpg",h_concat_opening)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
